@@ -1,0 +1,14 @@
+html {
+  background-color: #fcfcfc;
+}
+
+#main {
+  display: block;
+  width: 100%;
+  margin-top: 30vh;
+  text-align: center;
+  /* background-color: #ff9998; */
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 89px;
+}
